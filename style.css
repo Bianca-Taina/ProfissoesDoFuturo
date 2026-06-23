@@ -118,3 +118,8 @@
             display: inline-block;
             margin-bottom: 20px;
         }
+
+.shortia{
+    display: flex;
+    justify-content: center;
+}
